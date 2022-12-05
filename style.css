@@ -1,0 +1,17 @@
+body{
+  background: #ffeaad
+}
+
+
+p{
+font-size: 30px;
+text-align: center;
+}
+.onepiece{
+  margin-left: 35%
+}
+ul li{
+  position: relative;
+  left: 700px;
+  bottom: 100px;
+}
