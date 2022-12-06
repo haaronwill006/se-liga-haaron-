@@ -1,17 +1,26 @@
-body{
+body {
+width: 100%;
   background: #ffeaad
 }
 
-
-p{
-font-size: 30px;
+p {
+font-size: 90px;
 text-align: center;
 }
 .onepiece{
-  margin-left: 35%
+  margin-left: 10%;
+
 }
-ul li{
-  position: relative;
-  left: 700px;
-  bottom: 100px;
+
+nav{
+position: relative;
+top: 50px;
+left: 60px;
+font-size: 50px;
+}
+
+li{
+  display: inline;
+  padding: 2%
+
 }
